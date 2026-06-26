@@ -1,6 +1,5 @@
+<img width="400" height="225" alt="2026-06-26 05-42-54" src="https://github.com/user-attachments/assets/cd2ecb69-69dc-4926-9fec-caa65ec62044" />
 
-
-https://github.com/user-attachments/assets/9df753fb-c8fa-421a-96cd-0b1c5a774fe6
 
 # BreakMyBot
 
